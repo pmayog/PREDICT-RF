@@ -281,7 +281,7 @@ Using -v option will inform us on what the program is doing, and the terminal wi
 
 You can find a more extensive tutorial in the following link:
 
-[Link Text](./tutorial.pdf)
+[Link Text](./Tutorial.pdf)
 
 ## Documentation
 
