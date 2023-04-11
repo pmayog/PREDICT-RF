@@ -23,6 +23,7 @@ PREDICT-RF requires some programs, modules, and packages in order to start runni
 - **Numpy**
 - **Pandas**
 - **Scikit-Learn** (version 1.1.3)
+- **Joblib**
 
 AAIndex, Biopython, Numpy, Pandas and Scikit-learn modules must be installed on your computer. Remember that these must be in the correct path so Python can find them. These can be easily installed using:
 
@@ -35,6 +36,7 @@ For more information on how to install these programs check:
 - https://numpy.org/install/
 - https://pandas.pydata.org/docs/getting_started/install.html
 - https://scikit-learn.org/stable/install.html
+- https://pypi.org/project/joblib/#downloads
 
 
 In order to install PREDICT-RF, two downloadable .gz.tar files are available: 
