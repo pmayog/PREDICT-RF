@@ -276,6 +276,13 @@ Using -v option will inform us on what the program is doing, and the terminal wi
 
 *Note:*  Psi blast warning will always appear (when using -v option and without -v option). Other warnings can also appear.
 
+
+## Tutorial
+
+You can find a more extensive tutorial in the following link:
+
+[Link Text](./tutorial.pdf)
+
 ## Documentation
 
 You can find a background and a scientific explanation concerning the importance of accurately identifying the ligand binding sites of proteins, as well as an extended explanation of the program creation (i.e. Material and methods section), the results obtained (i.e. Results section) and the conclusions extracted (i.e. Discussion and Conclusions sections) in the following link:
